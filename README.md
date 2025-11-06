@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m currently pursuing: 5th Year M. Tech CSE (5 Years Integrated)<br>🤝 Looking to collaborate on: Coding practice & learning discussions<br>🤔 Looking for help with: Improving problem-solving skills<br>🌱 Currently learning: Java, DSA, Web Development<br>💬 Ask me about: CSE basics & Java fundamentals<br>⚡ Fun fact: I enjoy exploring new tech tools and automation
+🎓 I’m currently pursuing: 5th Year M. Tech CSE <br>🤝 Looking to collaborate on: Coding practice & learning discussions<br>🤔 Looking for help with: Improving problem-solving skills<br>🌱 Currently learning: Java, DSA, Web Development<br>💬 Ask me about: CSE basics & Java fundamentals<br>⚡ Fun fact: I enjoy exploring new tech tools and automation
 
 
 ## 🌐 Socials:
